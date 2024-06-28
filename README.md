@@ -20,23 +20,26 @@
     <td colspan='2'><h1>Veja meus status do Github:</h1></td>
  </tr>
   
-  <tr align='center'>
-    <td colspan='2'>
-       <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaslopes47&layout=compact&hide_border=true&langs_count=7&theme=dark"/>
+  <tr align='left'>
+  <td align="center">
+      <img width="100%" height="100%" alt="Github" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmY2dmRvdGozN2h2c29qaXV0eWJva2hlcDhxb2g4bWE3dnEzN2owMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.webp" />
+    </td>
+    <td>
+       <img width="800px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaslopes47&layout=compact&hide_border=true&langs_count=7&theme=dark"/>
     </td>
   </tr>
   
   <tr align='center'>
     <td>
-      <img height="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lucaslopes47&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
+      <img height="150" width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lucaslopes47&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
     </td>
     <td>
-      <img height="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Lucaslopes47&theme=algolia&hide_border=true&theme=dark" />
+      <img height="100%" width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Lucaslopes47&theme=algolia&hide_border=true&theme=dark" />
     </td>
   </tr>
     
   <tr>
-    <td colspan='2'><img width="100%" alt="Github" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2l1cWpzY2N6Nzg4eHoybXN1Y2Rmb3lhNXV5Yzd6cWlzNnB3ZWh5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12W5Sg2koWYnwA/giphy.webp" />
+    <td colspan='2'><img width="750 " alt="Github" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2l1cWpzY2N6Nzg4eHoybXN1Y2Rmb3lhNXV5Yzd6cWlzNnB3ZWh5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12W5Sg2koWYnwA/giphy.webp" />
   </tr>
 
   <tr>
@@ -57,7 +60,7 @@
   <tr>
     <th colspan='2'>
       <h1>Um pouco sobre mim:</h1>
-       Eu sou Lucas, um apaixonado por tecnologia e desenvolvimento de software. Estou sempre em busca de novos conhecimentos e desafios. Adoro criar soluções inovadoras e eficientes, seja no front-end ou no back-end. Quando não estou programando, gosto de explorar novas tecnologias e aprimorar minhas habilidades.
+       <h4>Eu sou Lucas, um apaixonado por tecnologia e desenvolvimento de software. Estou sempre em busca de novos conhecimentos e desafios. Adoro criar soluções inovadoras e eficientes, seja no front-end ou no back-end. Quando não estou programando, gosto de explorar novas tecnologias e aprimorar minhas habilidades.
     </th>
   </tr>
 </table>
