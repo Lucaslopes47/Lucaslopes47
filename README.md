@@ -22,7 +22,7 @@
   
   <tr align='left'>
   <td align="left">
-      <img width="1000%"  alt="Github" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmY2dmRvdGozN2h2c29qaXV0eWJva2hlcDhxb2g4bWE3dnEzN2owMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.webp" />
+      <img width="100%"  alt="Github" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmY2dmRvdGozN2h2c29qaXV0eWJva2hlcDhxb2g4bWE3dnEzN2owMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.webp" />
     </td>
     <td>
        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaslopes47&layout=compact&hide_border=true&langs_count=7&theme=dark"/>
