@@ -57,7 +57,7 @@
   <tr>
     <th colspan='2'>
       <h1>Um pouco sobre mim:</h1>
-      Olá! Eu sou Lucas, um apaixonado por tecnologia e desenvolvimento de software. Estou sempre em busca de novos conhecimentos e desafios. Adoro criar soluções inovadoras e eficientes, seja no front-end ou no back-end. Quando não estou programando, gosto de explorar novas tecnologias e aprimorar minhas habilidades. Estou empolgado para compartilhar meus projetos e colaborar com outros desenvolvedores talentosos aqui no GitHub. Vamos construir algo incrível juntos!
+       Eu sou Lucas, um apaixonado por tecnologia e desenvolvimento de software. Estou sempre em busca de novos conhecimentos e desafios. Adoro criar soluções inovadoras e eficientes, seja no front-end ou no back-end. Quando não estou programando, gosto de explorar novas tecnologias e aprimorar minhas habilidades.
     </th>
   </tr>
 </table>
