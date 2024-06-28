@@ -5,8 +5,8 @@
 ---
 
 🔭 **Atualmente trabalhando em:**
-- **[Sistema de Gerenciamento de Patrimônios](https://github.com/seu-usuario/projeto-patrimonio)**: Aplicação web para gerenciar a entrada e saída de patrimônios.
-- **[Sistema de Roteamento de Van](https://github.com/seu-usuario/projeto-van)**: Algoritmo de otimização de rotas utilizando a API do Google Maps.
+- **[Sistema de Gerenciamento de Patrimônios](https://github.com/Lucaslopes47/conpat)**: Aplicação web para gerenciar a entrada e saída de patrimônios.
+- **[Sistema de Roteamento de Van](https://colab.research.google.com/drive/1X2Gy3Gp2nPswMW8zGhqYjxh5c2Z5TDxb?usp=sharing)**: Algoritmo de otimização de rotas utilizando a API do Google Maps.
 
 🌱 **Atualmente aprendendo:**
 - Algoritmos de otimização
@@ -42,9 +42,9 @@
 
 ### 📊 Estatísticas do GitHub:
 
-[![Estatísticas do GitHub de Lucas](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)](https://github.com/Lucaslopes47)
+[![Estatísticas do GitHub de Lucas](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)](https://github.com/Lucaslopes47)
 
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)](https://github.com/Lucaslopes47)
+[![Linguagens mais usadas]([![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats))](https://github.com/Lucaslopes47)
 
 ---
 
