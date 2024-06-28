@@ -44,7 +44,7 @@
 
 [![Estatísticas do GitHub de Lucas](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)](https://github.com/Lucaslopes47)
 
-[![Linguagens mais usadas]([![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats))](https://github.com/Lucaslopes47)
+[![Linguagens mais usadas]([![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lucaslopes47)](https://github.com/anuraghazra/github-readme-stats))](https://github.com/)
 
 ---
 
@@ -68,5 +68,4 @@ Eu sou um desenvolvedor full stack apaixonado por tecnologia e inovação. Com e
 > "A vida é como um código, sempre há uma maneira de otimizar."
 
 ---
-
 
