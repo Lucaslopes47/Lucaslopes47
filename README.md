@@ -42,15 +42,14 @@
 
 ### 📊 Estatísticas do GitHub:
 
-[![Estatísticas do GitHub de Lucas](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)](https://github.com/Lucaslopes47)
+![Lucas Lopes GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucaslopes47&show_icons=true&theme=dark)
 
-[![Linguagens mais usadas]([![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lucaslopes47)](https://github.com/anuraghazra/github-readme-stats))](https://github.com/)
 
 ---
 
 ### 📈 Contribuições Recentes:
 
-[![Contribuições Recentes](https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=radical)](https://github.com/Lucaslopes47)
+[![Contribuições Recentes](https://github-readme-streak-stats.herokuapp.com/?user=Lucaslopes47&theme=radical)]
 
 ---
 
@@ -68,4 +67,5 @@ Eu sou um desenvolvedor full stack apaixonado por tecnologia e inovação. Com e
 > "A vida é como um código, sempre há uma maneira de otimizar."
 
 ---
+
 
